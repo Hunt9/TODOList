@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "186212772931",
+    "firebase_url": "https://to-do-list-21cc9.firebaseio.com",
+    "project_id": "to-do-list-21cc9",
+    "storage_bucket": "to-do-list-21cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186212772931:android:b37909602fff3dba",
+        "android_client_info": {
+          "package_name": "com.example.hp.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186212772931-35vh1trsbovc1g48m6m782fuhl2t80b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [{ "current_key": "" } ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
